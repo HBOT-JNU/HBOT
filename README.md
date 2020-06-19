@@ -1,6 +1,6 @@
 # HBOT
 코로나19 관련 챗봇 'HBOT' 제작 프로젝트
-
+![screenshot_20171221-151714](https://drive.google.com/file/d/1ElTyybWk3B1S4oxOdjd_yadOvD0hQjw3/view?usp=sharing)
 <br/>
 
 ## Project Goal
