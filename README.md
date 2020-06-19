@@ -1,9 +1,7 @@
 # HBOT
 코로나19 관련 챗봇 'HBOT' 제작 프로젝트
 
-![HBOT](https://drive.google.com/file/d/1ElTyybWk3B1S4oxOdjd_yadOvD0hQjw3/view)
-
-
+![HBOT_logo](./노랑.png){: width="30%" height="30%"}
 
 <br/>
 
