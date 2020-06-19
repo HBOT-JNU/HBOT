@@ -1,7 +1,7 @@
 # HBOT
 코로나19 관련 챗봇 'HBOT' 제작 프로젝트
 
-![HBOT_logo](./노랑.png){: width="30%" height="30%"}
+![HBOT_logo](./노랑.png =80x20)
 
 <br/>
 
